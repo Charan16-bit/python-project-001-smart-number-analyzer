@@ -1,2 +1,5 @@
-# python-project-001-smart-number-analyzer
-A Python console application that analyzes numbers by performing digit operations, mathematical validations, and algorithmic checks. Built to strengthen programming fundamentals and prepare for Data Structures &amp; Algorithms (DSA).
+ The Smart Number Analyzer System is a beginner-friendly Python console application that analyzes a given number and generates a detailed mathematical report.
+
+This project is designed to strengthen programming fundamentals, problem-solving skills, and algorithmic thinking before moving on to Data Structures & Algorithms (DSA).
+
+It combines all the Python concepts learned so far, including variables, operators, decision control statements, while loops, and number-based algorithms
